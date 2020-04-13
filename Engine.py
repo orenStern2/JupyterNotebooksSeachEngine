@@ -3,7 +3,7 @@ import ipywidgets as widg
 from ipywidgets import Button, Layout
 import os
 
-
+# set the root folder
 root_directory = 'Path to your *.ipynb files'
 
 
