@@ -1,5 +1,4 @@
-# JupyterNotebooksSeachEngine
-Jupyter notebook search engine
+# Jupyter Notebook SeachEngine
 
 During my machine learning studies, I used jupyter notebooks quite a bit and over time,large quantities of notebooks began to accumulate.
 As the number of notebooks increased, I began to realize that it is an impossible manual task to locate study material from notebooks.
